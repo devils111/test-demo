@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Products = (props) => (
-    <h2>List of Products</h2>
+    <h2>List </h2>
 );
 
 export default Products;
